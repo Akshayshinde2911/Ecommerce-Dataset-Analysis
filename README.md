@@ -1,5 +1,7 @@
 # Ecommerce-Dataset-Analysis
 
+Dataset link:(https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv)
+
 ## 1. Introduction
 
 The purpose of this project is to perform a comprehensive analysis of an eCommerce dataset using SQL and Python. The goal is to extract key insights about customer behavior, sales trends, and product performance, which can be used to make data-driven decisions for improving business outcomes.
