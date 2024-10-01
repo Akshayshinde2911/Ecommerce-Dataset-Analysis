@@ -1,23 +1,26 @@
 # Ecommerce-Dataset-Analysis
 
-1. Introduction
+## 1. Introduction
 
 The purpose of this project is to perform a comprehensive analysis of an eCommerce dataset using SQL and Python. The goal is to extract key insights about customer behavior, sales trends, and product performance, which can be used to make data-driven decisions for improving business outcomes.
-2. Data Overview
+
+## 2. Data Overview
 
 The dataset consists of multiple CSV files, representing different aspects of the business:
-
+**
     Customers.csv: Contains customer details and location.
     Orders.csv: Includes purchase dates, order statuses, and timestamps.
     Sellers.csv: Represents details of sellers on the platform.
     Products.csv: Lists product details such as category, price, etc.
-    Geolocation.csv: Provides geolocation data of customers for regional analysis.
+    Geolocation.csv: Provides geolocation data of customers for regional analysis.**
 
 Key variables include order IDs, customer IDs, product categories, purchase dates, and transaction amounts.
-3. Methodology
 
-    Data Loading and Cleaning: The data was loaded using Python libraries and connected to a MySQL database for querying.
-    Exploratory Data Analysis (EDA): SQL queries were executed to extract insights from the data. Data was visualized using libraries such as Matplotlib and Seaborn for enhanced understanding.
+
+## 3. Methodology
+
+ **Data Loading and Cleaning: The data was loaded using Python libraries and connected to a MySQL database for querying.
+    Exploratory Data Analysis (EDA): SQL queries were executed to extract insights from the data. Data was visualized using libraries such as Matplotlib and Seaborn for enhanced understanding.**
 
 Key Techniques Used:
 
