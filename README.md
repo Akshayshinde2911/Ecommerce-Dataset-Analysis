@@ -26,16 +26,16 @@ Key Techniques Used:
 
    ** SQL Queries: To extract and aggregate data for analysis.
     Visualization: Bar plots, time series charts to visualize trends.
-    Analysis of missing data: Handling missing timestamps and product categories for robust analysis.**
-
+    Analysis of missing data: Handling missing timestamps and product categories for robust analysis.
+**
 ## 4. Analysis
 
    Analysis of various business problems and and visualising the results to showcase them in an understanding manner.
 
 ## 5. Results
 
-** Top Sales Period: The highest number of orders were observed in the middle of the year (May and June), indicating that targeted promotions during this time could increase sales.
-    Regional Insights: By analyzing the geographical data, key locations with the highest number of customers can be targeted for regional marketing and optimizing delivery operations.**
+ Top Sales Period: The highest number of orders were observed in the middle of the year (May and June), indicating that targeted promotions during this time could increase sales.
+    Regional Insights: By analyzing the geographical data, key locations with the highest number of customers can be targeted for regional marketing and optimizing delivery operations.
 
 ## 6. Conclusion and Recommendations
 
@@ -46,6 +46,6 @@ Based on the analysis, several key recommendations can be made:
     Product Recommendations: Further analysis of product categories could help understand which items perform best during these months, guiding inventory planning.**
 
 ## 7. Appendix
-
-   ** Code Snippets: SQL queries used for analysis, Python visualization scripts.
-    Additional Graphs: Detailed monthly sales, regional customer data.**
+**
+    Code Snippets: SQL queries used for analysis, Python visualization scripts.
+    Additional Graphs: Detailed monthly sales, regional customer data.       **
