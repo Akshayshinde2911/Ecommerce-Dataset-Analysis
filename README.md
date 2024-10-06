@@ -2,7 +2,7 @@
 
 Dataset link:[https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv]
 
-[](https://github.com/Akshayshinde2911/Ecommerce-Dataset-Analysis/blob/main/Ecommerce%20Schema%20Design.png)
+![](https://github.com/Akshayshinde2911/Ecommerce-Dataset-Analysis/blob/main/Ecommerce%20Schema%20Design.png)
 
 ## 1. Introduction
 
